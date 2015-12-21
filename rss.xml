@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Dylan White]]></title>
         <description><![CDATA[Dylan White]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dylan-white/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Dec 2015 21:30:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Dec 2015 21:32:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dylan-white/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[vintage santa]]></title>
             <description><![CDATA[<article><h1>vintage santa</h1><p>Vintage Santa</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9a6d856d0b8eaffb0fc135a99e64eebb52ecef36.jpg"></article>]]></description>
-            <link>undefinedvintage-santa/index.html</link>
+            <link>https://thegrid.ai/dylan-white/vintage-santa/index.html</link>
             <guid isPermaLink="false">891e53a6-92ff-4b98-93d1-7533487da4e9</guid>
-            <pubDate>Mon, 21 Dec 2015 21:30:29 GMT</pubDate>
+            <pubDate>Mon, 21 Dec 2015 21:32:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
