@@ -1,7 +1,7 @@
 name: Dylan White
 favicon: null
-layout_spectrum: 0.6722852303646505
-typography_spectrum: 0.4709125456865877
+layout_spectrum: 0.51769
+typography_spectrum: 0.93471
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#101010'
+    - '#7f735d'
+    - '#a9997c'
+    - '#615847'
+    - '#dbc9a4'
   brandStrength: 0.9703524631913751
   lightness: 0.37655401858501136
   saturation: 0.8067754399962723
